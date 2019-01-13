@@ -1,5 +1,5 @@
 # README
-model.py 训练model   
+train.py 训练model   
 model.h5 model的权重  
 MyAgent.py 自己的Agent  
 
