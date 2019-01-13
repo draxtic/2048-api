@@ -1,3 +1,9 @@
+# README
+model.py 训练model  
+data.py 获取训练数据  
+model.h5 model的权重  
+MyAgent.py 自己的Agent  
+
 # 2048-api
 A 2048 game api for training supervised learning (imitation learning) or reinforcement learning agents
 
