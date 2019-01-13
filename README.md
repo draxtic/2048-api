@@ -1,6 +1,5 @@
 # README
-model.py 训练model  
-data.py 获取训练数据  
+model.py 训练model   
 model.h5 model的权重  
 MyAgent.py 自己的Agent  
 
